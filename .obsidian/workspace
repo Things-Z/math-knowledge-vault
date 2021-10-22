@@ -13,8 +13,16 @@
             "type": "leaf",
             "dimension": 80,
             "state": {
+<<<<<<< HEAD
               "type": "graph",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "函数、极限、连续/常用的基本极限.md",
+                "mode": "preview"
+              }
+>>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
             },
             "group": "320152b7b810ce5b"
           },
@@ -25,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "函数、极限、连续/常用的基本极限.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +56,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7983099209587536,
                   "close": false
                 }
               }
@@ -65,7 +73,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "一元函数积分学/一元函数积分学.md",
+            "file": "函数、极限、连续/常用的基本极限.md",
             "mode": "source"
           }
         },
@@ -126,14 +134,20 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "函数、极限、连续/常用的基本极限.md"
+              }
+>>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "edcf24c27b0abb34",
@@ -149,6 +163,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "函数、极限、连续/常用的基本极限.md",
+>>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +183,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "函数、极限、连续/常用的基本极限.md",
+>>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +208,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "函数、极限、连续/常用的基本极限.md"
+              }
+>>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
             }
           }
         ]
@@ -196,17 +224,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20e5e6b8557ffa75",
+  "active": "ad5242da4ec615d5",
   "lastOpenFiles": [
-    "一元函数积分学/一元函数积分学.md",
-    "2022张宇基础30讲.pdf",
-    "数学二-大纲.md",
-    "一元函数积分学/变限积分求导公式.md",
-    "一元函数积分学/积分的基本公式/积分的基本公式.md",
-    "一元函数积分学/换元积分法.md",
-    "一元函数积分学/换元积分法.md",
-    "一元函数积分学/分部积分法.md",
-    "一元函数积分学/积分的基本公式/x^2-a^2分之一的积分.md",
-    "一元函数积分学/积分的基本公式/a^2-x^2分之一的积分.md"
+    "函数、极限、连续/常用的基本极限.md",
+    "函数、极限、连续/等价无穷小/ax的等价无穷小.md",
+    "函数、极限、连续/等价无穷小/二分之一倍x平方的等价无穷小.md",
+    "函数、极限、连续/等价无穷小/a的x次方减1的等价无穷小.md",
+    "函数、极限、连续/等价无穷小/x-sinx与x-arcsinx的等价无穷小.md",
+    "函数、极限、连续/等价无穷小/tan-x与x-arctanx的等价无穷小.md",
+    "函数、极限、连续/等价无穷小/与x等价的等价无穷小.md",
+    "一元函数积分学/积分的基本公式/根号下x^2-a^2分之一的积分.md",
+    "函数、极限、连续/常用的等价无穷小.md",
+    "函数、极限、连续/等价无穷小公式/未命名.md"
   ]
 }
