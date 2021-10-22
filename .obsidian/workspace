@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解题技巧/分母因式分解.md",
+                "file": "三角函数/三角函数.md",
                 "mode": "preview"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "解题技巧/分母因式分解.md",
+                "file": "三角函数/三角函数.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7983099209587536,
                   "close": false
                 }
               }
@@ -64,7 +64,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "解题技巧/分母因式分解.md",
+            "file": "三角函数/三角函数.md",
             "mode": "source"
           }
         },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "解题技巧/分母因式分解.md"
+                "file": "三角函数/三角函数.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "解题技巧/分母因式分解.md",
+                "file": "三角函数/三角函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "解题技巧/分母因式分解.md",
+                "file": "三角函数/三角函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "解题技巧/分母因式分解.md"
+                "file": "三角函数/三角函数.md"
               }
             }
           }
@@ -201,17 +201,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20e5e6b8557ffa75",
+  "active": "ad5242da4ec615d5",
   "lastOpenFiles": [
-    "解题技巧/分母因式分解.md",
     "三角函数/三角函数.md",
+    "一元函数积分学/中值定理/罗尔定理.md",
+    "一元函数积分学/中值定理/拉格朗日中值定理.md",
+    "一元函数积分学/中值定理/柯西中值定理.md",
+    "解题技巧/分母因式分解.md",
     "题库/中值定理_例题1.md",
     "题库/分母因式分解积分_例题1.md",
     "一元函数积分学/积分的基本公式/根号下x^2+a^2分之一的积分.md",
     "一元函数积分学/积分的基本公式/根号下x^2-a^2分之一的积分.md",
-    "一元函数积分学/换元积分法.md",
-    "一元函数积分学/函数极限.md",
-    "一元函数积分学/分部积分法.md",
-    "一元函数积分学/变限积分求导公式.md"
+    "一元函数积分学/换元积分法.md"
   ]
 }
