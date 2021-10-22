@@ -4,34 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c82738055f00349",
-        "type": "leaf",
-        "dimension": 62.63966480446928,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "41174b5e826aa21b"
-      },
-      {
-        "id": "66171b8a3b4284ae",
+        "id": "23bc3b4aaa0c51fc",
         "type": "split",
-        "dimension": 37.36033519553072,
         "children": [
           {
-            "id": "6f460dc06ea89386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
-                "mode": "source"
-              }
-            },
-            "group": "41174b5e826aa21b"
-          },
-          {
-            "id": "a3891bf9ee58059c",
+            "id": "20e5e6b8557ffa75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,10 +16,59 @@
                 "file": "一元函数积分学/一元函数积分学.md",
                 "mode": "preview"
               }
-            }
+            },
+            "group": "320152b7b810ce5b"
+          },
+          {
+            "id": "57aa7424487d32bd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "一元函数积分学/一元函数积分学.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "320152b7b810ce5b"
           }
         ],
         "direction": "horizontal"
+      },
+      {
+        "id": "ad5242da4ec615d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "一元函数积分学/一元函数积分学.md",
+            "mode": "source"
+          }
+        },
+        "group": "320152b7b810ce5b"
       }
     ],
     "direction": "vertical"
@@ -175,17 +201,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c82738055f00349",
+  "active": "20e5e6b8557ffa75",
   "lastOpenFiles": [
     "一元函数积分学/一元函数积分学.md",
+    "2022张宇基础30讲.pdf",
+    "数学二-大纲.md",
+    "一元函数积分学/变限积分求导公式.md",
     "一元函数积分学/积分的基本公式/积分的基本公式.md",
     "一元函数积分学/换元积分法.md",
     "一元函数积分学/换元积分法.md",
     "一元函数积分学/分部积分法.md",
-    "数学二-大纲.md",
     "一元函数积分学/积分的基本公式/x^2-a^2分之一的积分.md",
-    "一元函数积分学/积分的基本公式/a^2-x^2分之一的积分.md",
-    "一元函数积分学/积分的基本公式/根号下x^2-a^2分之一的积分.md",
-    "一元函数积分学/积分的基本公式/根号下x^2+a^2分之一的积分.md"
+    "一元函数积分学/积分的基本公式/a^2-x^2分之一的积分.md"
   ]
 }
