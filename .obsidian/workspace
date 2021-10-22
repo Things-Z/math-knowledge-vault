@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "ee884cbacae60e5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e6c6c4e6dd2ba28",
+        "type": "split",
+        "dimension": 50.05235602094242,
+        "children": [
+          {
+            "id": "a68248eec0928850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一元函数积分学/一元函数积分学.md",
+                "mode": "preview"
+              }
+            },
+            "group": "41174b5e826aa21b"
+          },
+          {
+            "id": "9c82738055f00349",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "一元函数积分学/一元函数积分学.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.224779095268822,
+                  "close": false
+                }
+              }
+            },
+            "group": "41174b5e826aa21b"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "6f460dc06ea89386",
+        "type": "leaf",
+        "dimension": 49.947643979057595,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "一元函数积分学/一元函数积分学.md",
+            "mode": "source"
+          }
+        },
+        "group": "41174b5e826aa21b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b7a0aac5c5a96c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c4d5ec319e9236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "290585c248621272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f45367fd1541a41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "785593613c004854",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7be3e2a47626ef97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02612e00964ec184",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe1717dc71f8e234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db51b6d66619053d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "一元函数积分学/一元函数积分学.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edcf24c27b0abb34",
+    "type": "split",
+    "children": [
+      {
+        "id": "334f06044970a144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b3de3d3730e1b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "一元函数积分学/一元函数积分学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ed3a0a554c60d80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "一元函数积分学/一元函数积分学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c69e600abe3a6b23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "604b4cf0524b4aff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "一元函数积分学/一元函数积分学.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6f460dc06ea89386",
+  "lastOpenFiles": [
+    "一元函数积分学/一元函数积分学.md",
+    "csc x 的积分.md",
+    "一元函数积分学/sin x的积分.md",
+    "一元函数积分学/x分之1的积分.md",
+    "一元函数积分学/函数极限.md",
+    "三角函数/三角函数.md",
+    "数学二-大纲.md",
+    "1/x的积分.md",
+    "Pasted image 20211022151907.png",
+    "2022张宇基础30讲.pdf&page=100.md"
+  ]
+}
