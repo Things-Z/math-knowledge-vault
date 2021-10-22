@@ -6,15 +6,16 @@
       {
         "id": "0e6c6c4e6dd2ba28",
         "type": "split",
-        "dimension": 50.05235602094241,
+        "dimension": 47.69553072625698,
         "children": [
           {
             "id": "a68248eec0928850",
             "type": "leaf",
+            "dimension": 47.90528233151184,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "一元函数积分学/sin x的积分.md",
                 "mode": "preview"
               }
             },
@@ -23,10 +24,11 @@
           {
             "id": "9c82738055f00349",
             "type": "leaf",
+            "dimension": 52.09471766848816,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "一元函数积分学/sin x的积分.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +51,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.224779095268822,
+                  "scale": 1.383200517853468,
                   "close": false
                 }
               }
@@ -62,11 +64,11 @@
       {
         "id": "6f460dc06ea89386",
         "type": "leaf",
-        "dimension": 49.94764397905759,
+        "dimension": 52.30446927374302,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "一元函数积分学/一元函数积分学.md",
+            "file": "一元函数积分学/sin x的积分.md",
             "mode": "source"
           }
         },
@@ -117,20 +119,6 @@
         ]
       },
       {
-        "id": "7be3e2a47626ef97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02612e00964ec184",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "fe1717dc71f8e234",
         "type": "tabs",
         "children": [
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md"
+                "file": "一元函数积分学/sin x的积分.md"
               }
             }
           }
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "一元函数积分学/sin x的积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "一元函数积分学/sin x的积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md"
+                "file": "一元函数积分学/sin x的积分.md"
               }
             }
           }
@@ -217,15 +205,15 @@
   },
   "active": "6f460dc06ea89386",
   "lastOpenFiles": [
-    "一元函数积分学/一元函数积分学.md",
-    "csc x 的积分.md",
     "一元函数积分学/sin x的积分.md",
-    "一元函数积分学/x分之1的积分.md",
+    "一元函数积分学/csc x 的积分.md",
     "一元函数积分学/函数极限.md",
-    "三角函数/三角函数.md",
+    "一元函数积分学/一元函数积分学.md",
+    "一元函数积分学/csc^2 x的积分.md",
+    "一元函数积分学/x分之1的积分.md",
+    "解题技巧/分母因式分解.md",
+    "题库/分母因式分解积分_例题1.md",
     "数学二-大纲.md",
-    "1/x的积分.md",
-    "Pasted image 20211022151907.png",
-    "2022张宇基础30讲.pdf&page=100.md"
+    "2022张宇基础30讲.pdf"
   ]
 }
