@@ -6,22 +6,22 @@
       {
         "id": "23bc3b4aaa0c51fc",
         "type": "split",
+        "dimension": 68.57366771159874,
         "children": [
           {
             "id": "20e5e6b8557ffa75",
             "type": "leaf",
+            "dimension": 80,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
-                "mode": "preview"
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "320152b7b810ce5b"
           },
           {
             "id": "57aa7424487d32bd",
             "type": "leaf",
+            "dimension": 20,
             "state": {
               "type": "localgraph",
               "state": {
@@ -61,6 +61,7 @@
       {
         "id": "ad5242da4ec615d5",
         "type": "leaf",
+        "dimension": 31.426332288401255,
         "state": {
           "type": "markdown",
           "state": {
@@ -80,7 +81,7 @@
       {
         "id": "87c4d5ec319e9236",
         "type": "tabs",
-        "dimension": 73.224043715847,
+        "dimension": 73.22404371584699,
         "children": [
           {
             "id": "290585c248621272",
@@ -118,16 +119,14 @@
       {
         "id": "fe1717dc71f8e234",
         "type": "tabs",
-        "dimension": 26.775956284153008,
+        "dimension": 26.775956284153004,
         "children": [
           {
             "id": "db51b6d66619053d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "一元函数积分学/一元函数积分学.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "一元函数积分学/一元函数积分学.md"
-              }
+              "state": {}
             }
           }
         ]
