@@ -9,6 +9,13 @@ $$
 \int{\frac{1}{\sqrt{1-x^{2}}\mathrm{d}x}} = 
 
 \arcsin{x} + C
+
+$$
+
+$$
+\int{\frac{1}{\sqrt{a^2-x^{2}}\mathrm{d}x}} = 
+
+\arcsin{\frac{x}{a}} + C
 $$
 
 ## 例题

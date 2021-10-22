@@ -11,7 +11,7 @@
           {
             "id": "a68248eec0928850",
             "type": "leaf",
-            "dimension": 47.90528233151184,
+            "dimension": 51.286449399656945,
             "state": {
               "type": "markdown",
               "state": {
@@ -24,7 +24,7 @@
           {
             "id": "9c82738055f00349",
             "type": "leaf",
-            "dimension": 52.09471766848816,
+            "dimension": 48.71355060034305,
             "state": {
               "type": "localgraph",
               "state": {
@@ -51,7 +51,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.383200517853468,
+                  "scale": 1.6544695643347156,
                   "close": false
                 }
               }
@@ -221,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c82738055f00349",
+  "active": "6f460dc06ea89386",
   "lastOpenFiles": [
     "一元函数积分学/一元函数积分学.md",
+    "x^2-a^2分之一的积分.md",
+    "a^2-x^2分之一的积分.md",
+    "根号下x^2-a^2分之一的积分.md",
+    "根号下x^2+a^2分之一的积分.md",
+    "arctan x的导数.md",
     "arcsin x的导数.md",
     "cot^2 x的积分.md",
     "一元函数积分学/tan x 的积分.md",
-    "一元函数积分学/cot x的积分.md",
-    "一元函数积分学/cos x的积分.md",
-    "三角函数/三角函数.md",
-    "一元函数积分学/sec^2 x 的积分.md",
-    "一元函数积分学/sec x 的积分.md",
-    "一元函数积分学/csc^2 x的积分.md"
+    "一元函数积分学/cot x的积分.md"
   ]
 }
