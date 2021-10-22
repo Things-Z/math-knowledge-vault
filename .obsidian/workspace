@@ -6,7 +6,7 @@
       {
         "id": "0e6c6c4e6dd2ba28",
         "type": "split",
-        "dimension": 50.05235602094242,
+        "dimension": 50.05235602094241,
         "children": [
           {
             "id": "a68248eec0928850",
@@ -62,7 +62,7 @@
       {
         "id": "6f460dc06ea89386",
         "type": "leaf",
-        "dimension": 49.947643979057595,
+        "dimension": 49.94764397905759,
         "state": {
           "type": "markdown",
           "state": {
