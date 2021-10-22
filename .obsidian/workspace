@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "题库/分母因式分解积分_例题1.md",
+                "file": "REDME.md",
                 "mode": "preview"
               }
             },
@@ -28,7 +28,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "题库/分母因式分解积分_例题1.md",
+                "file": "REDME.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/分母因式分解积分_例题1.md",
+            "file": "REDME.md",
             "mode": "source"
           }
         },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/分母因式分解积分_例题1.md"
+                "file": "REDME.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题库/分母因式分解积分_例题1.md",
+                "file": "REDME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题库/分母因式分解积分_例题1.md",
+                "file": "REDME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/分母因式分解积分_例题1.md"
+                "file": "REDME.md"
               }
             }
           }
@@ -203,8 +203,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f460dc06ea89386",
+  "active": "a68248eec0928850",
   "lastOpenFiles": [
+    "REDME.md",
+    "数学二-大纲.md",
     "题库/分母因式分解积分_例题1.md",
     "解题技巧/分母因式分解.md",
     "一元函数积分学/一元函数积分学.md",
@@ -212,8 +214,6 @@
     "一元函数积分学/csc x 的积分.md",
     "一元函数积分学/函数极限.md",
     "一元函数积分学/csc^2 x的积分.md",
-    "一元函数积分学/x分之1的积分.md",
-    "数学二-大纲.md",
-    "2022张宇基础30讲.pdf"
+    "一元函数积分学/x分之1的积分.md"
   ]
 }
