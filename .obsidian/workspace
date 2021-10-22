@@ -51,7 +51,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.6544695643347156,
+                  "scale": 1.7009521150326865,
                   "close": false
                 }
               }
@@ -221,7 +221,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f460dc06ea89386",
+  "active": "9c82738055f00349",
   "lastOpenFiles": [
     "一元函数积分学/一元函数积分学.md",
     "一元函数积分学/x^2-a^2分之一的积分.md",
