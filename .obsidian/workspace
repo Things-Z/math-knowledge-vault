@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "解题技巧/分母因式分解.md",
                 "mode": "preview"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "解题技巧/分母因式分解.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "一元函数积分学/一元函数积分学.md",
+            "file": "解题技巧/分母因式分解.md",
             "mode": "source"
           }
         },
@@ -80,7 +80,7 @@
       {
         "id": "87c4d5ec319e9236",
         "type": "tabs",
-        "dimension": 73.224043715847,
+        "dimension": 73.22404371584699,
         "children": [
           {
             "id": "290585c248621272",
@@ -118,7 +118,7 @@
       {
         "id": "fe1717dc71f8e234",
         "type": "tabs",
-        "dimension": 26.775956284153008,
+        "dimension": 26.775956284153004,
         "children": [
           {
             "id": "db51b6d66619053d",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md"
+                "file": "解题技巧/分母因式分解.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "解题技巧/分母因式分解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md",
+                "file": "解题技巧/分母因式分解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一元函数积分学/一元函数积分学.md"
+                "file": "解题技巧/分母因式分解.md"
               }
             }
           }
@@ -203,15 +203,15 @@
   },
   "active": "20e5e6b8557ffa75",
   "lastOpenFiles": [
-    "一元函数积分学/一元函数积分学.md",
-    "2022张宇基础30讲.pdf",
-    "数学二-大纲.md",
-    "一元函数积分学/变限积分求导公式.md",
-    "一元函数积分学/积分的基本公式/积分的基本公式.md",
+    "解题技巧/分母因式分解.md",
+    "三角函数/三角函数.md",
+    "题库/中值定理_例题1.md",
+    "题库/分母因式分解积分_例题1.md",
+    "一元函数积分学/积分的基本公式/根号下x^2+a^2分之一的积分.md",
+    "一元函数积分学/积分的基本公式/根号下x^2-a^2分之一的积分.md",
     "一元函数积分学/换元积分法.md",
-    "一元函数积分学/换元积分法.md",
+    "一元函数积分学/函数极限.md",
     "一元函数积分学/分部积分法.md",
-    "一元函数积分学/积分的基本公式/x^2-a^2分之一的积分.md",
-    "一元函数积分学/积分的基本公式/a^2-x^2分之一的积分.md"
+    "一元函数积分学/变限积分求导公式.md"
   ]
 }
