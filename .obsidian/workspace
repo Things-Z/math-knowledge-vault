@@ -4,80 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "23bc3b4aaa0c51fc",
-        "type": "split",
-        "dimension": 68.57366771159874,
-        "children": [
-          {
-            "id": "20e5e6b8557ffa75",
-            "type": "leaf",
-            "dimension": 80,
-            "state": {
-<<<<<<< HEAD
-              "type": "graph",
-              "state": {}
-=======
-              "type": "markdown",
-              "state": {
-                "file": "函数、极限、连续/常用的基本极限.md",
-                "mode": "preview"
-              }
->>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
-            },
-            "group": "320152b7b810ce5b"
-          },
-          {
-            "id": "57aa7424487d32bd",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "函数、极限、连续/常用的基本极限.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7983099209587536,
-                  "close": false
-                }
-              }
-            },
-            "group": "320152b7b810ce5b"
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "ad5242da4ec615d5",
+        "id": "9286eee47f5b1cc8",
         "type": "leaf",
-        "dimension": 31.426332288401255,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "函数、极限、连续/常用的基本极限.md",
-            "mode": "source"
-          }
-        },
-        "group": "320152b7b810ce5b"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +21,7 @@
       {
         "id": "87c4d5ec319e9236",
         "type": "tabs",
-        "dimension": 73.22404371584699,
+        "dimension": 57.758620689655174,
         "children": [
           {
             "id": "290585c248621272",
@@ -127,27 +59,21 @@
       {
         "id": "fe1717dc71f8e234",
         "type": "tabs",
-        "dimension": 26.775956284153004,
+        "dimension": 42.241379310344826,
         "children": [
           {
             "id": "db51b6d66619053d",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {}
-=======
-              "state": {
-                "file": "函数、极限、连续/常用的基本极限.md"
-              }
->>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 300
   },
   "right": {
     "id": "edcf24c27b0abb34",
@@ -163,10 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "函数、极限、连续/常用的基本极限.md",
->>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,10 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "函数、极限、连续/常用的基本极限.md",
->>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,13 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {}
-=======
-              "state": {
-                "file": "函数、极限、连续/常用的基本极限.md"
-              }
->>>>>>> 682f2bb2eb3a7b1a79744e8de04b4706568c7ea6
             }
           }
         ]
@@ -224,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad5242da4ec615d5",
+  "active": "9286eee47f5b1cc8",
   "lastOpenFiles": [
-    "函数、极限、连续/常用的基本极限.md",
-    "函数、极限、连续/等价无穷小/ax的等价无穷小.md",
-    "函数、极限、连续/等价无穷小/二分之一倍x平方的等价无穷小.md",
-    "函数、极限、连续/等价无穷小/a的x次方减1的等价无穷小.md",
-    "函数、极限、连续/等价无穷小/x-sinx与x-arcsinx的等价无穷小.md",
-    "函数、极限、连续/等价无穷小/tan-x与x-arctanx的等价无穷小.md",
-    "函数、极限、连续/等价无穷小/与x等价的等价无穷小.md",
-    "一元函数积分学/积分的基本公式/根号下x^2-a^2分之一的积分.md",
-    "函数、极限、连续/常用的等价无穷小.md",
-    "函数、极限、连续/等价无穷小公式/未命名.md"
+    "一元函数微分学/一元函数微分学.md",
+    "一元函数积分学/一元函数积分学.md",
+    "README.md",
+    "数学二-大纲.md",
+    "函数、极限、连续/等价无穷小/等价无穷小.md",
+    "题库/中值定理_例题1.md",
+    "一元函数微分学/中值定理/中值定理.md",
+    "一元函数微分学/中值定理/罗尔定理.md",
+    "中值定理.md",
+    "一元函数微分学/中值定理/柯西中值定理.md"
   ]
 }

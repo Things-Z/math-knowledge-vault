@@ -1,23 +1,29 @@
-# 与x等价的等价无穷小
+# x的等价无穷小
 ## 公式
 
 $$
-\sin{x}
+\LARGE
+x \sim \sin{x}
 $$
 $$
-\tan{x}
+\LARGE
+x \sim \tan{x}
 $$
 $$
-\ln(1+x)
+\LARGE
+x \sim \ln(1+x)
 $$
 $$
-e^x-1
+\LARGE
+x \sim e^{x-1}
 $$
 $$
-\arcsin{x}
+\LARGE
+x \sim \arcsin{x}
 $$
 $$
-\arctan{x}
+\LARGE
+x \sim \arctan{x}
 $$
 
 ## 例题
