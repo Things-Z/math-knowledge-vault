@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/积分应用_质心问题_例题1.md",
+            "file": "题库/矩阵的特征值与特征向量_例题1.md",
             "mode": "preview"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/积分应用_质心问题_例题1.md",
-            "mode": "preview"
+            "file": "题库/矩阵的特征值与特征向量_例题1.md",
+            "mode": "source"
           }
         },
         "group": "7a20f2e9eaf0af0a"
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/积分应用_质心问题_例题1.md"
+                "file": "题库/矩阵的特征值与特征向量_例题1.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题库/积分应用_质心问题_例题1.md",
+                "file": "题库/矩阵的特征值与特征向量_例题1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题库/积分应用_质心问题_例题1.md",
+                "file": "题库/矩阵的特征值与特征向量_例题1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/积分应用_质心问题_例题1.md"
+                "file": "题库/矩阵的特征值与特征向量_例题1.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "4efbc0997693a63b",
   "lastOpenFiles": [
+    "题库/矩阵的特征值与特征向量_例题1.md",
+    "题库/线性方程组求通解_例题2.md",
+    "题库/线性方程组求通解_例题1.md",
+    "题库/线性方程组求公共解(方程组求公共解)_例题1.md",
     "题库/积分应用_质心问题_例题1.md",
     "题库/积分应用_计算引力_例题1.md",
     "题库/线性方程组通解的求解_例题1.md",
     "题库/线性方程组求公共解(解求公共解)_例题1.md",
     "题库/线性方程组复杂题目_例题2.md",
-    "题库/线性方程组复杂题目_例题1.md",
-    "一元函数积分学/积分应用/物理应用_引力问题.md",
-    "题库/分母因式分解积分_例题1.md",
-    "题库/向量组等价问题_例题1.md",
-    "题库/矩阵的线性表示_例题1.md"
+    "题库/线性方程组复杂题目_例题1.md"
   ]
 }
