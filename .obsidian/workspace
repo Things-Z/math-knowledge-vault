@@ -7,25 +7,9 @@
         "id": "9286eee47f5b1cc8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "题库/正定矩阵的证明_例题1.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2f32d37bc3315b3a"
-      },
-      {
-        "id": "04c858391d0c48ef",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "题库/正定矩阵的证明_例题1.md",
-            "mode": "source"
-          }
-        },
-        "group": "2f32d37bc3315b3a"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -82,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "题库/正定矩阵的证明_例题1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -107,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题库/正定矩阵的证明_例题1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题库/正定矩阵的证明_例题1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "题库/正定矩阵的证明_例题1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04c858391d0c48ef",
+  "active": "9286eee47f5b1cc8",
   "lastOpenFiles": [
-    "题库/正定矩阵的证明_例题1.md",
-    "二次型/正定矩阵的概念.md",
-    "矩阵的特征值及特征向量/实对称矩阵.md",
-    "题库/特征值与特征向量_例题1.md",
-    "题库/矩阵的特征值与特征向量_例题1.md",
-    "题库/线性方程组求通解_例题2.md",
-    "题库/线性方程组求通解_例题1.md",
-    "题库/线性方程组求公共解(方程组求公共解)_例题1.md",
-    "题库/积分应用_质心问题_例题1.md",
-    "题库/积分应用_计算引力_例题1.md"
+    "一元函数微分学/未命名.md",
+    "一元函数微分学/函数极限.md",
+    "解题技巧/函数与函数绝对值可导的关系.md",
+    "题库/函数绝对值的导数例题_ 例题1.md",
+    "解题技巧/分母因式分解.md",
+    "解题技巧/一阶递推式.md",
+    "解题技巧/二阶递推式.md",
+    "题库/积分应用_计算引力_例题1.md",
+    "题库/中值定理_例题2.md",
+    "数学二-大纲.md"
   ]
 }
