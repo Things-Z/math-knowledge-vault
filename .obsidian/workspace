@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/综合证明题_例题3.md",
+            "file": "题库/矩阵的性质应用_例题2.md",
             "mode": "preview"
           }
         },
-        "group": "f493ae004933d2f0"
+        "group": "182e6ce8e4c7148a"
       },
       {
-        "id": "64a26f20a845cb91",
+        "id": "cc865f4cb1f113e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/综合证明题_例题3.md",
+            "file": "题库/矩阵的性质应用_例题2.md",
             "mode": "source"
           }
         },
-        "group": "f493ae004933d2f0"
+        "group": "182e6ce8e4c7148a"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/综合证明题_例题3.md"
+                "file": "题库/矩阵的性质应用_例题2.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题库/综合证明题_例题3.md",
+                "file": "题库/矩阵的性质应用_例题2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题库/综合证明题_例题3.md",
+                "file": "题库/矩阵的性质应用_例题2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/综合证明题_例题3.md"
+                "file": "题库/矩阵的性质应用_例题2.md"
               }
             }
           }
@@ -158,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64a26f20a845cb91",
+  "active": "38d60b03cc3cd707",
   "lastOpenFiles": [
+    "题库/矩阵的性质应用_例题2.md",
+    "解题技巧/单位矩阵的转化.md",
+    "解题技巧/一阶递推式.md",
+    "解题技巧/求高阶导数.md",
+    "解题技巧/分母因式分解.md",
+    "解题技巧/二阶递推式.md",
     "题库/综合证明题_例题3.md",
     "题库/综合证明题_例题2.md",
     "题库/综合证明题_例题1.md",
-    "题库/中值定理_例题2.md",
-    "题库/中值定理_例题1.md",
-    "函数、极限、连续/常用的基本极限.md",
-    "函数、极限、连续/泰勒展式.md",
-    "解题技巧/求高阶导数.md",
-    "一元函数微分学/常见高阶导数公式.md",
-    "二次型/正定矩阵的概念.md"
+    "题库/中值定理_例题2.md"
   ]
 }
