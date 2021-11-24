@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/矩阵的性质应用_例题2.md",
+            "file": "题库/真题整理/2004年真题整理.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/矩阵的性质应用_例题2.md",
+            "file": "题库/真题整理/2004年真题整理.md",
             "mode": "source"
           }
         },
@@ -37,7 +37,7 @@
       {
         "id": "87c4d5ec319e9236",
         "type": "tabs",
-        "dimension": 57.758620689655174,
+        "dimension": 49.497991967871485,
         "children": [
           {
             "id": "290585c248621272",
@@ -75,7 +75,7 @@
       {
         "id": "fe1717dc71f8e234",
         "type": "tabs",
-        "dimension": 42.241379310344826,
+        "dimension": 50.50200803212851,
         "children": [
           {
             "id": "db51b6d66619053d",
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/矩阵的性质应用_例题2.md"
+                "file": "题库/真题整理/2004年真题整理.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题库/矩阵的性质应用_例题2.md",
+                "file": "题库/真题整理/2004年真题整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题库/矩阵的性质应用_例题2.md",
+                "file": "题库/真题整理/2004年真题整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/矩阵的性质应用_例题2.md"
+                "file": "题库/真题整理/2004年真题整理.md"
               }
             }
           }
@@ -158,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38d60b03cc3cd707",
+  "active": "cc865f4cb1f113e4",
   "lastOpenFiles": [
-    "题库/矩阵的性质应用_例题2.md",
-    "解题技巧/单位矩阵的转化.md",
-    "解题技巧/一阶递推式.md",
-    "解题技巧/求高阶导数.md",
-    "解题技巧/分母因式分解.md",
-    "解题技巧/二阶递推式.md",
+    "题库/真题整理/2004年真题整理.md",
+    "题库/真题整理/2003年真题整理.md",
+    "题库/真题整理/2000年真题整理.md",
+    "题库/真题整理/2001年真题整理.md",
+    "题库/真题整理/2002年真题整理.md",
+    "函数、极限、连续/常用的基本极限.md",
+    "一元函数微分学/一元函数微分学.md",
     "题库/综合证明题_例题3.md",
     "题库/综合证明题_例题2.md",
-    "题库/综合证明题_例题1.md",
-    "题库/中值定理_例题2.md"
+    "题库/综合证明题_例题1.md"
   ]
 }
