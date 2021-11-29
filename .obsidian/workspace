@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/真题整理/2020年真题整理.md",
+            "file": "解题技巧/反函数求导.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题库/真题整理/2020年真题整理.md",
+            "file": "解题技巧/反函数求导.md",
             "mode": "source"
           }
         },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "泰勒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/真题整理/2020年真题整理.md"
+                "file": "解题技巧/反函数求导.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题库/真题整理/2020年真题整理.md",
+                "file": "解题技巧/反函数求导.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "题库/真题整理/2020年真题整理.md",
+                "file": "解题技巧/反函数求导.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "题库/真题整理/2020年真题整理.md"
+                "file": "解题技巧/反函数求导.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "a27e187a7c4ff460",
   "lastOpenFiles": [
-    "题库/真题整理/2020年真题整理.md",
-    "题库/真题整理/2021年真题整理.md",
-    "题库/真题整理/2019年真题整理.md",
-    "题库/真题整理/2018年真题整理.md",
-    "题库/真题整理/2017年真题整理.md",
-    "题库/真题整理/2016年真题整理.md",
-    "题库/真题整理/2015年真题整理.md",
-    "题库/真题整理/2014年真题整理.md",
-    "题库/真题整理/2013年真题整理.md",
-    "题库/真题整理/2012年真题整理.md"
+    "解题技巧/反函数求导.md",
+    "解题技巧/求解函数的间断点.md",
+    "解题技巧/求高阶导数.md",
+    "解题技巧/分母因式分解.md",
+    "函数、极限、连续/泰勒展式.md",
+    "一元函数微分学/常见高阶导数公式.md",
+    "解题技巧/函数与函数绝对值可导的关系.md",
+    "解题技巧/二阶递推式.md",
+    "题库/真题整理/函数极限_例题2.md",
+    "解题技巧/一阶递推式.md"
   ]
 }
